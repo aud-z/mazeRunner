@@ -1,0 +1,1 @@
+This is the final project for the Intro to Java class on EdX. The MazeRunner program is a game that allows users to solve a maze. The maze.java program is a pre-given program provided by the class as part of the final assignment. All credits for maze.java are attributed to the Intro to Java course.
